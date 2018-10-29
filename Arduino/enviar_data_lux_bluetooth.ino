@@ -1,5 +1,5 @@
 ////////////////////////////////////////////////////////////////////////////////////
-// Autor: Alejandro Manzanares Lemus
+// Autor: Arturo P Y Alejandro M
 //
 // Programa que lee valores del sensor de luz y los envia a la
 // raspberry pi a traves de un modulo bluetooth 
